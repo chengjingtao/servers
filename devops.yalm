@@ -1,0 +1,4 @@
+servers:
+- name: int
+  ip: 1.1.1.1
+  user: root
